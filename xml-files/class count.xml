@@ -1,0 +1,104 @@
+<METRICS profile="Class count metrics" timestamp="Fri, 9 Aug 2024 11:38:04 NZST">
+	<METRIC category="Package" name="Number of classes" abbreviation="C">
+		<VALUE measured="org.apache.commons.text" value="90.0"/>
+		<VALUE measured="org.apache.commons.text.diff" value="14.0"/>
+		<VALUE measured="org.apache.commons.text.io" value="2.0"/>
+		<VALUE measured="org.apache.commons.text.jmh" value="5.0"/>
+		<VALUE measured="org.apache.commons.text.lookup" value="59.0"/>
+		<VALUE measured="org.apache.commons.text.lookup.external" value="1.0"/>
+		<VALUE measured="org.apache.commons.text.matcher" value="14.0"/>
+		<VALUE measured="org.apache.commons.text.numbers" value="12.0"/>
+		<VALUE measured="org.apache.commons.text.similarity" value="46.0"/>
+		<VALUE measured="org.apache.commons.text.translate" value="31.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Number of classes (recursive)" abbreviation="C(rec)">
+		<VALUE measured="" value="274.0"/>
+		<VALUE measured="org" value="274.0"/>
+		<VALUE measured="org.apache" value="274.0"/>
+		<VALUE measured="org.apache.commons" value="274.0"/>
+		<VALUE measured="org.apache.commons.text" value="274.0"/>
+		<VALUE measured="org.apache.commons.text.diff" value="14.0"/>
+		<VALUE measured="org.apache.commons.text.io" value="2.0"/>
+		<VALUE measured="org.apache.commons.text.jmh" value="5.0"/>
+		<VALUE measured="org.apache.commons.text.lookup" value="60.0"/>
+		<VALUE measured="org.apache.commons.text.lookup.external" value="1.0"/>
+		<VALUE measured="org.apache.commons.text.matcher" value="14.0"/>
+		<VALUE measured="org.apache.commons.text.numbers" value="12.0"/>
+		<VALUE measured="org.apache.commons.text.similarity" value="46.0"/>
+		<VALUE measured="org.apache.commons.text.translate" value="31.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Number of product classes" abbreviation="Cp">
+		<VALUE measured="org.apache.commons.text" value="39.0"/>
+		<VALUE measured="org.apache.commons.text.diff" value="10.0"/>
+		<VALUE measured="org.apache.commons.text.io" value="1.0"/>
+		<VALUE measured="org.apache.commons.text.jmh" value="0.0"/>
+		<VALUE measured="org.apache.commons.text.lookup" value="28.0"/>
+		<VALUE measured="org.apache.commons.text.lookup.external" value="0.0"/>
+		<VALUE measured="org.apache.commons.text.matcher" value="9.0"/>
+		<VALUE measured="org.apache.commons.text.numbers" value="9.0"/>
+		<VALUE measured="org.apache.commons.text.similarity" value="25.0"/>
+		<VALUE measured="org.apache.commons.text.translate" value="17.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Number of product classes (recursive)" abbreviation="Cp(rec)">
+		<VALUE measured="" value="138.0"/>
+		<VALUE measured="org" value="138.0"/>
+		<VALUE measured="org.apache" value="138.0"/>
+		<VALUE measured="org.apache.commons" value="138.0"/>
+		<VALUE measured="org.apache.commons.text" value="138.0"/>
+		<VALUE measured="org.apache.commons.text.diff" value="10.0"/>
+		<VALUE measured="org.apache.commons.text.io" value="1.0"/>
+		<VALUE measured="org.apache.commons.text.jmh" value="0.0"/>
+		<VALUE measured="org.apache.commons.text.lookup" value="28.0"/>
+		<VALUE measured="org.apache.commons.text.lookup.external" value="0.0"/>
+		<VALUE measured="org.apache.commons.text.matcher" value="9.0"/>
+		<VALUE measured="org.apache.commons.text.numbers" value="9.0"/>
+		<VALUE measured="org.apache.commons.text.similarity" value="25.0"/>
+		<VALUE measured="org.apache.commons.text.translate" value="17.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Number of test classes" abbreviation="Ct">
+		<VALUE measured="org.apache.commons.text" value="51.0"/>
+		<VALUE measured="org.apache.commons.text.diff" value="4.0"/>
+		<VALUE measured="org.apache.commons.text.io" value="1.0"/>
+		<VALUE measured="org.apache.commons.text.jmh" value="5.0"/>
+		<VALUE measured="org.apache.commons.text.lookup" value="31.0"/>
+		<VALUE measured="org.apache.commons.text.lookup.external" value="1.0"/>
+		<VALUE measured="org.apache.commons.text.matcher" value="5.0"/>
+		<VALUE measured="org.apache.commons.text.numbers" value="3.0"/>
+		<VALUE measured="org.apache.commons.text.similarity" value="21.0"/>
+		<VALUE measured="org.apache.commons.text.translate" value="14.0"/>
+	</METRIC>
+	<METRIC category="Package" name="Number of test classes (recursive)" abbreviation="TC(rec)">
+		<VALUE measured="" value="136.0"/>
+		<VALUE measured="org" value="136.0"/>
+		<VALUE measured="org.apache" value="136.0"/>
+		<VALUE measured="org.apache.commons" value="136.0"/>
+		<VALUE measured="org.apache.commons.text" value="136.0"/>
+		<VALUE measured="org.apache.commons.text.diff" value="4.0"/>
+		<VALUE measured="org.apache.commons.text.io" value="1.0"/>
+		<VALUE measured="org.apache.commons.text.jmh" value="5.0"/>
+		<VALUE measured="org.apache.commons.text.lookup" value="32.0"/>
+		<VALUE measured="org.apache.commons.text.lookup.external" value="1.0"/>
+		<VALUE measured="org.apache.commons.text.matcher" value="5.0"/>
+		<VALUE measured="org.apache.commons.text.numbers" value="3.0"/>
+		<VALUE measured="org.apache.commons.text.similarity" value="21.0"/>
+		<VALUE measured="org.apache.commons.text.translate" value="14.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Number of classes" abbreviation="C">
+		<VALUE measured="commons-text" value="274.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Number of product classes" abbreviation="Cp">
+		<VALUE measured="commons-text" value="138.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Number of test classes" abbreviation="Ct">
+		<VALUE measured="commons-text" value="136.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Number of classes" abbreviation="C">
+		<VALUE measured="project" value="274.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Number of product classes" abbreviation="Cp">
+		<VALUE measured="project" value="138.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Number of test classes" abbreviation="Ct">
+		<VALUE measured="project" value="136.0"/>
+	</METRIC>
+</METRICS>

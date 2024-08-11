@@ -1,0 +1,52 @@
+<METRICS profile="Number of files metrics" timestamp="Fri, 9 Aug 2024 11:39:29 NZST">
+	<METRIC category="Module" name="Number of files" abbreviation="FILES">
+		<VALUE measured="commons-text" value="240.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Number of Groovy files" abbreviation="Groovy">
+		<VALUE measured="commons-text" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Number of HTML files" abbreviation="HTML">
+		<VALUE measured="commons-text" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Number of Java files" abbreviation="J">
+		<VALUE measured="commons-text" value="201.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Number of Kotlin files" abbreviation="KT">
+		<VALUE measured="commons-text" value="0.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Number of XML files" abbreviation="XML">
+		<VALUE measured="commons-text" value="17.0"/>
+	</METRIC>
+	<METRIC category="FileType" name="Number of files" abbreviation="FILES">
+		<VALUE measured=".gitignore (GitIgnore)" value="1.0"/>
+		<VALUE measured="File type auto-detected by file content" value="1.0"/>
+		<VALUE measured="Java" value="201.0"/>
+		<VALUE measured="Markdown" value="4.0"/>
+		<VALUE measured="Properties" value="2.0"/>
+		<VALUE measured="Shell script" value="1.0"/>
+		<VALUE measured="Text" value="8.0"/>
+		<VALUE measured="XML" value="17.0"/>
+		<VALUE measured="YAML" value="5.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Number of files" abbreviation="FILES">
+		<VALUE measured="project" value="240.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Number of Groovy files" abbreviation="Groovy">
+		<VALUE measured="project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Number of HTML files" abbreviation="HTML">
+		<VALUE measured="project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Number of Java files" abbreviation="J">
+		<VALUE measured="project" value="201.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Number of Kotlin files" abbreviation="KT">
+		<VALUE measured="project" value="0.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Number of modules" abbreviation="MOD">
+		<VALUE measured="project" value="1.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Number of XML files" abbreviation="XML">
+		<VALUE measured="project" value="17.0"/>
+	</METRIC>
+</METRICS>
